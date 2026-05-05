@@ -1,0 +1,56 @@
+name: Daily Vishay channel tracking
+
+on:
+  schedule:
+    # 10:00 UTC = 06:00 ET (before US market open).
+    # GitHub may delay scheduled runs by 5-15 minutes during peak load.
+    - cron: "0 10 * * *"
+  workflow_dispatch:  # manual trigger button in the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit data + dashboard back
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Pull full history so the diff between days is visible
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch today's snapshot from DigiKey
+        env:
+          DIGIKEY_CLIENT_ID: ${{ secrets.DIGIKEY_CLIENT_ID }}
+          DIGIKEY_CLIENT_SECRET: ${{ secrets.DIGIKEY_CLIENT_SECRET }}
+        run: python src/fetch_daily.py
+
+      - name: Recompute indices
+        run: python src/compute_indices.py
+
+      - name: Rebuild dashboard
+        run: python src/build_dashboard.py
+
+      - name: Commit data + dashboard updates
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/history.csv data/indices.csv docs/index.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
