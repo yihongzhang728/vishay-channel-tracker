@@ -1,0 +1,201 @@
+segment,digikey_part_number,manufacturer_part_number,manufacturer,category,ref_quantity_available,ref_unit_price_usd,ref_price_break_qty,ref_lead_time_weeks,ref_product_status,selected_at_utc
+MOSFET,2N7002K-T1-GE3CT-ND,2N7002K-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,543192,0.077280,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2347DS-T1-GE3CT-ND,SI2347DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,320514,0.165090,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2301CDS-T1-GE3CT-ND,SI2301CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,265864,0.199180,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQ1470AEH-T1_GE3CT-ND,SQ1470AEH-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,264737,0.257210,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4114DY-T1-GE3CT-ND,SI4114DY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,244846,0.842540,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1062X-T1-GE3CT-ND,SI1062X-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,238834,0.100920,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQ2337ES-T1_BE3CT-ND,SQ2337ES-T1_BE3,Vishay Siliconix,Discrete Semiconductor Products,202349,0.324570,1000,22,Obsolete,2026-05-08T17:32:10+00:00
+MOSFET,SI2319DDS-T1-GE3CT-ND,SI2319DDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,195588,0.252280,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIA413DJ-T1-GE3CT-ND,SIA413DJ-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,141313,0.464850,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2302CDS-T1-GE3CT-ND,SI2302CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,140072,0.223940,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2305CDS-T1-GE3CT-ND,SI2305CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,131506,0.165090,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIR622DP-T1-RE3CT-ND,SIR622DP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,120801,0.711400,1000,42,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2307CDS-T1-GE3CT-ND,SI2307CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,114046,0.223940,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI3456DDV-T1-GE3CT-ND,SI3456DDV-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,106691,0.156330,1000,28,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIUD412ED-T1-GE3CT-ND,SIUD412ED-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,103754,0.110390,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2309CDS-T1-GE3CT-ND,SI2309CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,100609,0.240130,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SUD19P06-60-GE3CT-ND,SUD19P06-60-GE3,Vishay Siliconix,Discrete Semiconductor Products,97110,0.562740,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQ2398ES-T1_GE3CT-ND,SQ2398ES-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,97094,0.310560,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQ2389ES-T1_BE3CT-ND,SQ2389ES-T1_BE3,Vishay Siliconix,Discrete Semiconductor Products,93572,0.324570,1000,57,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1416EDH-T1-GE3CT-ND,SI1416EDH-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,93252,0.184690,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2329DS-T1-GE3CT-ND,SI2329DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,92303,0.287470,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7619DN-T1-GE3CT-ND,SI7619DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,88591,0.378060,1000,28,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2374DS-T1-GE3CT-ND,SI2374DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,87838,0.132460,1000,28,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIA483DJ-T1-GE3CT-ND,SIA483DJ-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,86814,0.223940,1000,19,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI3424CDV-T1-GE3CT-ND,SI3424CDV-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,86174,0.187400,1000,45,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2301CDS-T1-E3CT-ND,SI2301CDS-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,80018,0.207500,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1317DL-T1-GE3CT-ND,SI1317DL-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,78922,0.165090,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1442DH-T1-GE3CT-ND,SI1442DH-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,78042,0.152800,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7155DP-T1-GE3CT-ND,SI7155DP-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,76927,1.207940,1000,19,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7415DN-T1-E3CT-ND,SI7415DN-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,76727,0.874240,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI3483CDV-T1-GE3CT-ND,SI3483CDV-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,76287,0.493140,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4435FDY-T1-GE3CT-ND,SI4435FDY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,75133,0.213280,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7149ADP-T1-GE3CT-ND,SI7149ADP-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,74032,0.599610,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7617DN-T1-GE3CT-ND,SI7617DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,72399,0.443430,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2343CDS-T1-GE3CT-ND,SI2343CDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,71893,0.264010,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2367DS-T1-GE3CT-ND,SI2367DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,65931,0.190780,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQ2361CES-T1_GE3CT-ND,SQ2361CES-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,65557,0.195660,1000,24,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SIS890ADN-T1-GE3CT-ND,SIS890ADN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,65298,0.459720,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,SISS98DN-T1-GE3CT-ND,SISS98DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,63062,0.521860,1000,42,Active,2026-05-08T17:32:10+00:00
+MOSFET,SUM70101EL-GE3CT-ND,SUM70101EL-GE3,Vishay Siliconix,Discrete Semiconductor Products,62417,2.611300,100,42,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQ1440EH-T1_GE3CT-ND,SQ1440EH-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,62303,0.257210,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIS427EDN-T1-GE3CT-ND,SIS427EDN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,61872,0.333340,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4403DDY-T1-GE3CT-ND,SI4403DDY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,60783,0.249730,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2314EDS-T1-E3TR-ND,SI2314EDS-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,60000,0.329140,3000,11,Obsolete,2026-05-08T17:32:10+00:00
+MOSFET,SI7114DN-T1-E3CT-ND,SI7114DN-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,58330,1.080040,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQ3427AEEV-T1_GE3CT-ND,SQ3427AEEV-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,55777,0.360290,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2300DS-T1-GE3CT-ND,SI2300DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,55595,0.190780,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQS460EN-T1_BE3CT-ND,SQS460EN-T1_BE3,Vishay Siliconix,Discrete Semiconductor Products,55443,0.605610,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4435DDY-T1-GE3CT-ND,SI4435DDY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,53252,0.348360,1000,28,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2325DS-T1-E3CT-ND,SI2325DS-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,51875,0.493140,1000,11,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4401DDY-T1-GE3CT-ND,SI4401DDY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,51668,0.392750,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIS412DN-T1-GE3CT-ND,SIS412DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,51420,0.287470,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIB456DK-T1-GE3CT-ND,SIB456DK-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,51352,0.223940,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SISA88DN-T1-GE3CT-ND,SISA88DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,51213,0.274540,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIR426DP-T1-GE3CT-ND,SIR426DP-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,51133,0.507180,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIA449DJ-T1-GE3CT-ND,SIA449DJ-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,50470,0.229950,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,IRFL9014PBFCT-ND,IRFL9014TRPBF,Vishay Siliconix,Discrete Semiconductor Products,49594,1.071000,1000,26,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7101DN-T1-GE3CT-ND,SI7101DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,49585,0.590190,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7469DP-T1-E3CT-ND,SI7469DP-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,49572,1.315800,1000,11,Active,2026-05-08T17:32:10+00:00
+MOSFET,SUD09P10-195-GE3CT-ND,SUD09P10-195-GE3,Vishay Siliconix,Discrete Semiconductor Products,48694,0.436260,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SI7454FDP-T1-RE3CT-ND,SI7454FDP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,48661,0.457060,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIA421DJ-T1-GE3CT-ND,SIA421DJ-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,48339,0.493140,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIS488DN-T1-GE3CT-ND,SIS488DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,47937,0.479030,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,IRFZ14PBF-ND,IRFZ14PBF,Vishay Siliconix,Discrete Semiconductor Products,47886,0.710080,1000,31,Active,2026-05-08T17:32:10+00:00
+MOSFET,SISA40DN-T1-GE3CT-ND,SISA40DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,47589,0.420830,1000,19,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SIR5607DP-T1-RE3CT-ND,SIR5607DP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,47057,1.413720,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7812DN-T1-GE3CT-ND,SI7812DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,46505,1.025100,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2333CDS-T1-E3CT-ND,SI2333CDS-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,46180,0.348360,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQ1464EEH-T1_GE3CT-ND,SQ1464EEH-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,45947,0.228000,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SI2369BDS-T1-GE3CT-ND,SI2369BDS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,45714,0.200350,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI8816EDB-T2-E1CT-ND,SI8816EDB-T2-E1,Vishay Siliconix,Discrete Semiconductor Products,43283,0.185710,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIR870ADP-T1-GE3CT-ND,SIR870ADP-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,42672,1.032750,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1013CX-T1-GE3CT-ND,SI1013CX-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,42596,0.106740,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI1443EDH-T1-GE3CT-ND,SI1443EDH-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,42229,0.213610,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQ2348CES-T1_GE3CT-ND,SQ2348CES-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,42114,0.198010,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7613DN-T1-GE3CT-ND,SI7613DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,41032,0.521160,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7611DN-T1-GE3CT-ND,SI7611DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,40585,0.816570,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7615CDN-T1-GE3CT-ND,SI7615CDN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,40339,0.302290,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQJ409EP-T2_GE3CT-ND,SQJ409EP-T2_GE3,Vishay Siliconix,Discrete Semiconductor Products,39931,0.685830,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SISH615ADN-T1-GE3CT-ND,SISH615ADN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,39680,0.338460,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIS890DN-T1-GE3CT-ND,SIS890DN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,39675,0.651230,1000,42,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SISS22LDN-T1-GE3CT-ND,SISS22LDN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,38913,0.672850,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI8823EDB-T2-E1CT-ND,SI8823EDB-T2-E1,Vishay Siliconix,Discrete Semiconductor Products,38802,0.186050,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SQJQ402E-T1_GE3CT-ND,SQJQ402E-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,38646,1.403620,1000,23,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIS862ADN-T1-GE3CT-ND,SIS862ADN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,38506,0.466550,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQS181ELNW-T1_GE3CT-ND,SQS181ELNW-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,38487,0.533690,1000,39,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SIR826LDP-T1-RE3CT-ND,SIR826LDP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,37734,0.799360,1000,55,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SIR680LDP-T1-RE3CT-ND,SIR680LDP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,37632,1.268980,1000,37,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7141DP-T1-GE3CT-ND,SI7141DP-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,37549,1.147500,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4186DY-T1-GE3CT-ND,SI4186DY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,36950,0.576500,1000,28,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SIR186LDP-T1-RE3CT-ND,SIR186LDP-T1-RE3,Vishay Siliconix,Discrete Semiconductor Products,36920,0.533690,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI7119DN-T1-E3CT-ND,SI7119DN-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,36403,0.493140,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI4143DY-T1-GE3CT-ND,SI4143DY-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,36252,0.447590,1000,22,Active,2026-05-08T17:32:10+00:00
+MOSFET,SISS10ADN-T1-GE3TR-ND,SISS10ADN-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,36000,0.417770,3000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,742-SQ2309CES-T1_GE3CT-ND,SQ2309CES-T1_GE3,Vishay Siliconix,Discrete Semiconductor Products,35907,0.183670,1000,24,Active,2026-05-08T17:32:10+00:00
+MOSFET,SUD50P10-43L-E3CT-ND,SUD50P10-43L-E3,Vishay Siliconix,Discrete Semiconductor Products,35903,1.311360,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2325DS-T1-GE3CT-ND,SI2325DS-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,35520,0.493140,1000,63,Active,2026-05-08T17:32:10+00:00
+MOSFET,SI2306BDS-T1-E3CT-ND,SI2306BDS-T1-E3,Vishay Siliconix,Discrete Semiconductor Products,35136,0.264010,1000,17,Active,2026-05-08T17:32:10+00:00
+MOSFET,SIA441DJ-T1-GE3CT-ND,SIA441DJ-T1-GE3,Vishay Siliconix,Discrete Semiconductor Products,35119,0.285920,1000,38,Active,2026-05-08T17:32:10+00:00
+MOSFET,SUD50P06-15-GE3CT-ND,SUD50P06-15-GE3,Vishay Siliconix,Discrete Semiconductor Products,34302,1.315800,1000,63,Active,2026-05-08T17:32:10+00:00
+Diode,LL4148-GS08CT-ND,LL4148-GS08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,1153339,0.056170,1000,6,Active,2026-05-08T17:32:10+00:00
+Diode,S1G-E3/61TGICT-ND,S1G-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,770976,0.093340,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,MSS1P3L-M3/89AGICT-ND,MSS1P3L-M3/89A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,584865,0.072880,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,1N4005-E3/54GICT-ND,1N4005-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,315663,0.145590,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4148VSCT-ND,1N4148TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,315562,0.062780,1000,15,Active,2026-05-08T17:32:10+00:00
+Diode,112-VSSA310SHM3_A/HCT-ND,VSSA310SHM3_A/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,263964,0.232060,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,MMBD914-E3-08CT-ND,MMBD914-E3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,254764,0.078000,1000,41,Active,2026-05-08T17:32:10+00:00
+Diode,BY448GP-E3/54GICT-ND,BY448GP-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,249786,0.711210,1000,10,Not For New Designs,2026-05-08T17:32:10+00:00
+Diode,S1M-E3/61TGICT-ND,S1M-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,195727,0.093340,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,S3M-E3/57TGICT-ND,S3M-E3/57T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,181615,0.303400,100,10,Active,2026-05-08T17:32:10+00:00
+Diode,112-BAS70-02V-G3-08CT-ND,BAS70-02V-G3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,175464,0.100670,1000,36,Active,2026-05-08T17:32:10+00:00
+Diode,LL4148-GS18CT-ND,LL4148-GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,166173,0.056640,1000,9,Active,2026-05-08T17:32:10+00:00
+Diode,SS3P6HM3/85AGICT-ND,SS3P6HM3/85A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,161335,0.172060,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,ES07D-GS18GICT-ND,ES07D-GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,159891,0.157790,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,LS4148-GS08CT-ND,LS4148-GS08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,151695,0.060520,1000,9,Active,2026-05-08T17:32:10+00:00
+Diode,BYG23M-E3/GITR-ND,BYG23M-E3/TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,148901,0.163810,1800,10,Active,2026-05-08T17:32:10+00:00
+Diode,S07M-GS08CT-ND,S07M-GS08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,146434,0.132400,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,ES07B-GS18CT-ND,ES07B-GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,146394,0.157790,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,MSS2P3-M3/89AGICT-ND,MSS2P3-M3/89A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,145601,0.088400,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,SD103AWS-E3-08GICT-ND,SD103AWS-E3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,144200,0.127190,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,VSKY05201006-G4-08GICT-ND,VSKY05201006-G4-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,136761,0.147760,1000,58,Active,2026-05-08T17:32:10+00:00
+Diode,GP02-40-E3/54GICT-ND,GP02-40-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,133766,0.520540,1000,10,Not For New Designs,2026-05-08T17:32:10+00:00
+Diode,1N4007E-E3/54GICT-ND,1N4007E-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,131757,0.155120,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,SS10P6-M3/86AGICT-ND,SS10P6-M3/86A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,131367,0.472200,500,12,Active,2026-05-08T17:32:10+00:00
+Diode,10MQ060NPBFCT-ND,VS-10MQ060NTRPBF,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,126984,0.306900,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,S1JHE3_A/IGICT-ND,S1JHE3_A/I,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,126970,0.113930,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,VSKY05401006-G4-08GICT-ND,VSKY05401006-G4-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,109677,0.147760,1000,58,Active,2026-05-08T17:32:10+00:00
+Diode,1N5061CT-ND,1N5061TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,107495,0.776830,1000,9,Active,2026-05-08T17:32:10+00:00
+Diode,S1GHE3_A/IGICT-ND,S1GHE3_A/I,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,106633,0.113930,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,MSS1P6-M3/89AGICT-ND,MSS1P6-M3/89A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,102484,0.072880,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,BAS70-00-E3-18GICT-ND,BAS70-00-E3-18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,101789,0.095890,1000,41,Active,2026-05-08T17:32:10+00:00
+Diode,SF1600-TAPGITB-ND,SF1600-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,100000,0.718190,5000,9,Active,2026-05-08T17:32:10+00:00
+Diode,1N4007-E3/54GICT-ND,1N4007-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,92236,0.145590,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,B140-E3/61TGICT-ND,B140-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,90131,0.131480,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,ES2D-E3/52TGICT-ND,ES2D-E3/52T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,90091,0.322300,100,12,Active,2026-05-08T17:32:10+00:00
+Diode,BAT83S-TRGICT-ND,BAT83S-TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,87191,0.119650,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,BYG20J-E3/TRGICT-ND,BYG20J-E3/TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,86391,0.237720,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,V1PM12-M3/HGICT-ND,V1PM12-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,86304,0.105010,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,SS15-E3/61TGICT-ND,SS15-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,83056,0.141500,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,BAT54W-G3-08GICT-ND,BAT54W-G3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,82353,0.125690,1000,28,Active,2026-05-08T17:32:10+00:00
+Diode,MSS1P5-M3/89AGICT-ND,MSS1P5-M3/89A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,81650,0.094280,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,V1PL45-M3/HGICT-ND,V1PL45-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,79817,0.105010,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,15MQ040NPBFCT-ND,VS-15MQ040NTRPBF,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,79792,0.333100,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,US1M-E3/61TGICT-ND,US1M-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,79727,0.145160,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,S07M-GS18GICT-ND,S07M-GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,78373,0.132400,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,V8PM10SHM3/IGICT-ND,V8PM10SHM3/I,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,78201,0.378610,1000,14,Active,2026-05-08T17:32:10+00:00
+Diode,SS5P4-M3/86AGICT-ND,SS5P4-M3/86A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,77509,0.300800,500,12,Active,2026-05-08T17:32:10+00:00
+Diode,BYG23M-E3/TR3GICT-ND,BYG23M-E3/TR3,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,77433,0.178840,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4148W-E3-18CT-ND,1N4148W-E3-18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,77172,0.098090,1000,28,Active,2026-05-08T17:32:10+00:00
+Diode,SD101A-TAPGITB-ND,SD101A-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60000,0.072440,10000,27,Active,2026-05-08T17:32:10+00:00
+Diode,112-VS-10BQ060-M3/5BTCT-ND,VS-10BQ060-M3/5BT,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,75782,0.211940,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,SSA33L-E3/61TGICT-ND,SSA33L-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,75644,0.229480,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,BYG22D-E3/GICT-ND,BYG22D-E3/TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,75460,0.357100,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,112-V2P22L-M3/HCT-ND,V2P22L-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,75405,0.167690,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,ES2G-E3/52TGICT-ND,ES2G-E3/52T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,73717,0.322300,100,10,Active,2026-05-08T17:32:10+00:00
+Diode,VS-10MQ100-M3/5ATGICT-ND,VS-10MQ100-M3/5AT,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,73271,0.155120,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,112-BAT81S-TAPTB-ND,BAT81S-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60000,0.084080,10000,27,Active,2026-05-08T17:32:10+00:00
+Diode,112-BAT41-TAPTB-ND,BAT41-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,50000,0.090930,10000,27,Active,2026-05-08T17:32:10+00:00
+Diode,1N4004-E3/53GITB-ND,1N4004-E3/53,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,66000,0.114240,3000,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4154TAPGITB-ND,1N4154TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60000,0.062270,10000,27,Active,2026-05-08T17:32:10+00:00
+Diode,112-AR1FK-M3/HCT-ND,AR1FK-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,69125,0.147760,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,S2M-E3/5BTGICT-ND,S2M-E3/5BT,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,68943,0.127560,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4005-E3/73GITB-ND,1N4005-E3/73,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,63000,0.114240,3000,10,Active,2026-05-08T17:32:10+00:00
+Diode,SS1FH10HM3/HGICT-ND,SS1FH10HM3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,68547,0.142320,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,BAV20GICT-ND,BAV20-TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,67892,0.097490,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,S1A-E3/61TGICT-ND,S1A-E3/61T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,67224,0.093340,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,SL04-HM3-18GICT-ND,SL04-HM3-18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,67155,0.093880,1000,19,Obsolete,2026-05-08T17:32:10+00:00
+Diode,SD103CVSCT-ND,SD103C-TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,66312,0.142500,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,VS-3EMU06-M3/5ATGICT-ND,VS-3EMU06-M3/5AT,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,65123,0.262970,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,SS1FH10-M3/HGICT-ND,SS1FH10-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,64280,0.142140,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,BYV26E-TAPTB-ND,BYV26E-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60000,0.683160,5000,9,Active,2026-05-08T17:32:10+00:00
+Diode,MCL4148CT-ND,MCL4148-TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,62530,0.074170,1000,6,Active,2026-05-08T17:32:10+00:00
+Diode,SD103A-TAPGITB-ND,SD103A-TAP,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,50000,0.101050,10000,27,Active,2026-05-08T17:32:10+00:00
+Diode,SS3P3-M3/84AGICT-ND,SS3P3-M3/84A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,61383,0.137560,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,112-BAT165-HG3/HCT-ND,BAT165-HG3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,61372,0.125880,1000,17,Active,2026-05-08T17:32:10+00:00
+Diode,V3FM15-M3/HGICT-ND,V3FM15-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,61167,0.127190,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,SSB44-E3/52TGICT-ND,SSB44-E3/52T,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,61028,0.335300,100,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4148WS-E3-08CT-ND,1N4148WS-E3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60981,0.093070,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,VS-1EFH02HM3/IGICT-ND,VS-1EFH02HM3/I,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60836,0.156160,1000,17,Active,2026-05-08T17:32:10+00:00
+Diode,S07G-GS18GICT-ND,S07G-GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,60005,0.097890,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,US1G-E3/5ATGICT-ND,US1G-E3/5AT,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,59766,0.159040,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,S07J-GS08CT-ND,S07J-GS08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,59121,0.109430,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,1N4154VSTRGICT-ND,1N4154TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,58647,0.090440,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,BAW27-TRGICT-ND,BAW27-TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,58591,0.109100,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,1N4151VSCT-ND,1N4151TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,58538,0.090440,1000,27,Active,2026-05-08T17:32:10+00:00
+Diode,LL4150GS18GICT-ND,LL4150GS18,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,58299,0.081570,1000,9,Active,2026-05-08T17:32:10+00:00
+Diode,V1PM15-M3/HGICT-ND,V1PM15-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,57994,0.105010,1000,19,Active,2026-05-08T17:32:10+00:00
+Diode,SS2FH10HM3/HGICT-ND,SS2FH10HM3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,57680,0.157440,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,SS10PH45HM3_A/IGICT-ND,SS10PH45HM3_A/I,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,57340,0.369060,1000,12,Active,2026-05-08T17:32:10+00:00
+Diode,112-SL04-HM3_A08CT-ND,SL04-HM3_A08,Vishay,Discrete Semiconductor Products,57296,0.180390,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,V3FL45HM3/HGICT-ND,V3FL45HM3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,57189,0.144500,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,112-RS1FLM-M3/HCT-ND,RS1FLM-M3/H,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,56755,0.093880,1000,20,Active,2026-05-08T17:32:10+00:00
+Diode,AU1PM-M3/84ACT-ND,AU1PM-M3/84A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,56280,0.249650,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N4005GP-E3/54GICT-ND,1N4005GP-E3/54,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,56241,0.385900,1000,10,Not For New Designs,2026-05-08T17:32:10+00:00
+Diode,ES07B-GS08GICT-ND,ES07B-GS08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,56002,0.157790,1000,99,Active,2026-05-08T17:32:10+00:00
+Diode,BAS70-00-E3-08CT-ND,BAS70-00-E3-08,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,55718,0.095890,1000,41,Active,2026-05-08T17:32:10+00:00
+Diode,SE30AFJHM3/6AGICT-ND,SE30AFJHM3/6A,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,55182,0.240750,1000,10,Active,2026-05-08T17:32:10+00:00
+Diode,BY448CT-ND,BY448TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,55171,0.800630,1000,9,Active,2026-05-08T17:32:10+00:00
+Diode,BYG23T-M3/CT-ND,BYG23T-M3/TR,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,54980,0.295100,500,10,Active,2026-05-08T17:32:10+00:00
+Diode,1N5817-E3/73GITB-ND,1N5817-E3/73,Vishay General Semiconductor - Diodes Division,Discrete Semiconductor Products,51000,0.187060,3000,10,Active,2026-05-08T17:32:10+00:00
