@@ -19,7 +19,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          # Pull full history so the diff between days is visible
           fetch-depth: 0
 
       - name: Set up Python
@@ -54,3 +53,10 @@ jobs:
             git commit -m "Daily snapshot $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Post to Slack
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DASHBOARD_URL: https://yihongzhang728.github.io/vishay-channel-tracker/
+        run: python src/post_slack.py
