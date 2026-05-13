@@ -178,7 +178,7 @@ def build_small_multiples(df: pd.DataFrame) -> str:
 
     fig.update_layout(
         height=720, template="plotly_white",
-        title="By segment — indices (left axis) and lead time in weeks (right axis)",
+        title="By segment — median indices (left axis) and median lead time in weeks (right axis)",
         legend=dict(orientation="h", y=-0.10),
         margin=dict(l=40, r=20, t=70, b=40),
     )
@@ -192,8 +192,8 @@ def render_html(df: pd.DataFrame, output_path: Path):
         return
 
     summary_table = build_summary_table(df)
-    unit_chart = build_line_chart(df, "unit_index", "Unit (stock) Index by segment", "Index (day-0 = 100)")
-    price_chart = build_line_chart(df, "price_index", "Price Index by segment (qty 1000 break)", "Index (day-0 = 100)")
+    unit_chart = build_line_chart(df, "unit_index", "Median Unit (stock) Index by segment", "Index (day-0 = 100)")
+    price_chart = build_line_chart(df, "price_index", "Median Price Index by segment (qty 1000 break)", "Index (day-0 = 100)")
     lead_chart = build_line_chart(df, "lead_time_weeks_median", "Median Lead Time by segment", "Weeks")
     small_mult = build_small_multiples(df)
 
@@ -216,14 +216,54 @@ def render_html(df: pd.DataFrame, output_path: Path):
   table.summary td:first-child, table.summary th:first-child {{ text-align: left; }}
   table.summary td.dim {{ color: #777; font-size: 12px; }}
   .chart-row {{ margin-top: 24px; }}
-  .footer {{ color: #999; font-size: 12px; margin-top: 32px; border-top: 1px solid #eee; padding-top: 12px; }}
-  details {{ margin-top: 8px; }}
-  summary {{ cursor: pointer; color: #555; }}
+  .methodology {{ background: #fafafa; border: 1px solid #eee; border-radius: 6px;
+                  padding: 12px 18px; margin: 16px 0 24px; font-size: 14px; line-height: 1.5; }}
+  .methodology h3 {{ margin: 12px 0 6px; font-size: 15px; }}
+  .methodology h3:first-child {{ margin-top: 0; }}
+  .methodology ul {{ margin: 6px 0 6px 18px; padding: 0; }}
+  .methodology code {{ background: #eee; padding: 1px 5px; border-radius: 3px; font-size: 13px; }}
 </style>
 </head>
 <body>
 <h1>Vishay Distributor Channel Tracker</h1>
 <p class="meta">DigiKey-only · Median index across tracked parts per segment · Last refresh: {generated_at}</p>
+
+<section class="methodology">
+  <h3>About this tracker</h3>
+  <p>This is an illustrative channel-health tracker for Vishay Intertechnology (VSH)
+     that scrapes the DigiKey Product Information API once a day to monitor
+     distributor stock, list pricing, and manufacturer lead times across a fixed
+     universe of 320 parts. The universe is split into six product segments —
+     <strong>100 parts each</strong> for MOSFETs and Diodes, and
+     <strong>30 parts each</strong> for Optoelectronics, Resistors, Capacitors, and
+     Inductors. Every tracked part was selected on day-0 as one of the
+     highest-volume Vishay SKUs in its segment on DigiKey, and the list is held
+     fixed thereafter so day-over-day changes reflect channel dynamics rather than
+     universe drift.</p>
+
+  <h3>Methodology</h3>
+  <p>All three indices are medians across the segment, so a single stockout, EOL,
+     or repricing on one part cannot dominate the signal.</p>
+  <ul>
+    <li><strong>Unit Index</strong> — median of
+        <code>(current_quantity / day-0_quantity) × 100</code>. Day-0 = 100. Rising
+        means DigiKey is restocking; falling means the channel is drawing down.</li>
+    <li><strong>Price Index</strong> — same construction on unit price at the
+        qty-1000 price break (or nearest higher break if 1000 is unavailable).
+        Day-0 = 100.</li>
+    <li><strong>Lead Time</strong> — absolute median of manufacturer-quoted lead
+        time in weeks (DigiKey <code>ManufacturerLeadWeeks</code>). Not normalized;
+        weeks are weeks.</li>
+  </ul>
+
+  <h3>Caveats</h3>
+  <p>DigiKey-only — does not reflect Mouser, Arrow, Avnet, Newark, or direct-to-OEM
+     stock, which together hold the majority of Vishay's channel inventory. Trend
+     direction is more reliable than absolute levels. Parts that fail to fetch on a
+     given day are excluded from that day's median; see the Coverage column for
+     fetched / universe size. For revenue-modeling work, ground-truth against
+     Vishay's quarterly distributor-inventory disclosure in the 10-Q MD&amp;A.</p>
+</section>
 
 {summary_table}
 
@@ -231,29 +271,6 @@ def render_html(df: pd.DataFrame, output_path: Path):
 <div class="chart-row">{price_chart}</div>
 <div class="chart-row">{lead_chart}</div>
 <div class="chart-row">{small_mult}</div>
-
-<details>
-  <summary>Methodology</summary>
-  <p>Tracked universe: top ~100 most-stocked Vishay parts per segment as of day-0,
-     held fixed thereafter. Universe rebalance archives prior series and starts a
-     new day-0 baseline.</p>
-  <p>Unit Index = median across tracked parts in the segment of
-     (current_quantity_available / day-0_quantity_available) × 100.
-     Day-0 = 100 by construction.</p>
-  <p>Price Index = same construction on the unit price at the qty-1000 price break
-     (or nearest higher break if 1000 unavailable). Holding the break tier constant
-     across days isolates list-price changes from break-tier changes.</p>
-  <p>Lead Time shown is the absolute median of manufacturer-quoted lead time in weeks
-     across tracked parts (DigiKey ManufacturerLeadWeeks field). Not normalized.</p>
-  <p>Parts that fail to fetch on a given day are excluded from that day's median;
-     the Coverage column shows fetched / universe size.</p>
-</details>
-
-<p class="footer">
-  Source: DigiKey Product Information API v4. Single-distributor view — does not
-  reflect Vishay's full channel inventory. For revenue-modeling work, ground-truth
-  against the distributor inventory disclosure in Vishay's 10-Q MD&amp;A.
-</p>
 </body>
 </html>
 """
